@@ -1,0 +1,936 @@
+[
+  [
+    {
+      "question": "Which country's flag has the motto 'Omnibus pro unum' written on it?",
+      "answers": ["Australia", "Brazil", "Switzerland", "Indonesia"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "For what purpose was the arquebus used in the Middle Ages?",
+      "answers": ["As a food", "As a firearm", "As a pen", "For shaving"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Who wrote the poem: \"As a boy, I roamed the woods...\"?",
+      "answers": ["George Enescu", "Alexandru Donici", "Mihai Eminescu", "George Coșbuc"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "The outline of which country is shaped like a boot?",
+      "answers": ["France", "Italy", "Poland", "Hungary"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Who was Iuliu Maniu?",
+      "answers": ["a political man", "a football player", "a wizard", "a painter"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Which of the following variants is synonymous with \"heap\"?",
+      "answers": ["sleeping", "piling", "screwing", "farthing"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "The only supreme court city with global jurisdiction is:",
+      "answers": ["Rome", "Nuremberg", "Hague", "Trondheim"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "What animals are missing from the expression \"to walk after ... greens\"?",
+      "answers": ["horses", "moles", "hippos", "grangers"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Foreign Intelligence service of the United States is:",
+      "answers": ["FBI", "CIA", "MI6", "NSA"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "The highest mountain range in the world is:",
+      "answers": ["Alps", "Caucasus", "Himalayas", "Kilimanjaro"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "The official religion in Romania is:",
+      "answers": ["Eastern Orthodox", "Roman Catholic", "Protestant", "Calvinist"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Ce cuvânt ai putea folosi pentru a caracteriza un loc unde găseşti mare dezordine?",
+      "answers": ["cacealma", "harabură", "haraci", "jubilație"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "50% din 50 este egal cu:",
+      "answers": ["50", "25", "20", "1"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Ce companie aviatică comercializează un avion numit 777?",
+      "answers": ["Airbus", "Saab", "Boeing", "I.A.R."],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Ce rapsodie a compus George Enescu?",
+      "answers": ["ungară", "română", "turcă", "germană"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Ce figură geometrică are suma unghiurilor egală cu 180°?",
+      "answers": ["pătrat", "cerc", "triunghi", "paralelogram"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Ce cântăreaţă a jucat în filmul \"Xanadu\"?",
+      "answers": ["Irina Loghin", "Corina Chiriac", "Monica Anghel", "Olivia Newton-John"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Ce organ este direct afectat de boala \"vacii nebune\"?",
+      "answers": ["ugerul", "coada", "creierul", "copitele"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "În care dintre următoarele obiective se foloseşte apa grea?",
+      "answers": ["centrală nucleară", "Uzina \"Semănătoarea\"", "Ștrandul Tineretului", "Palatul Parlamentului"],
+      "correctAnswer": "1"
+    }
+  ],
+
+  [
+    {
+      "question": "Prefixul „eco” vine de la un cuvânt grecesc care înseamnă:",
+      "answers": ["stat", "casă", "soare", "viață"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Cum ai mai putea numi un ciubotar?",
+      "answers": ["ciocârlan", "cistercian", "ceasornicar", "cizmar"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Care este cel mai apropiat oraş de Braşov?",
+      "answers": ["Câmpina", "Constanța", "Timișoara", "Iași"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Care dintre următoarele oraşe se află în apropierea clădirii denumite \"Pentagon\"?",
+      "answers": ["București", "Londra", "Washington D.C.", "Los Angeles"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Care dintre variantele următoare reprezintă o maşină de război în antichitate?",
+      "answers": ["balustrada", "balonzaidul", "balista", "baliza"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Ce fel de animale cresc columbofilii?",
+      "answers": ["balene", "porumbei", "vidre", "urși"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Cum se numește cartea sfântă a Islamului?",
+      "answers": ["Talmudul", "Coranul", "Biblia", "Vechiul Testament"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Ce substanţă sticloasă se poate aplica pe piese de metal sau din ceramică pentru a le proteja?",
+      "answers": ["acid sulfuric", "email", "talc", "acid azotic"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Care este culoarea florilor de cireş?",
+      "answers": ["albă", "albastră", "verder", "neagră"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Cum se numeau conducătorii Egiptului Antic?",
+      "answers": ["cancelari", "președinți", "faraoni", "împărați"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Care dintre următoarele personalităţi îşi primeşte oaspeţii la Palatul Élysée?",
+      "answers": ["Paul Valéry", "Christian Dior", "Jean Alesi", "Nicolas Sarkozy"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Care dintre următoarele state americane are graniţă cu Canada?",
+      "answers": ["Florida", "Texas", "Alaska", "California"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Oraşul Bergamo se găseşte pe teritoriul:",
+      "answers": ["Rusiei", "Italiei", "Marocului", "Braziliei"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Care dintre următorii indivizi foloseşte în meseria sa ampermetrul?",
+      "answers": ["bucătarul", "frizerul", "electronistul", "tapițerul"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Care dintre cuvintele următoare are legătură cu peştii?",
+      "answers": ["lapte", "lapți", "lavoar", "latrină"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Cum se numeşte avionul prezidenţial al S.U.A.?",
+      "answers": ["BAC 1-11", "Air Force One", "Belgica", "Challenger"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Under what name is the policy of isolation of the countries of the former communist bloc, imposed by the USSR, known?",
+      "answers": ["Perestroika", "Iron Curtain", "Electrified Fence", "Hour of Union"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "What is the simplest geometric figure?",
+      "answers": ["Point", "Triangle", "Square", "Line"],
+      "correctAnswer": "1"
+    }
+  ],
+
+  [
+    {
+      "question": "Which of the following grape varieties is used to produce a famous red wine?",
+      "answers": ["Pinot Grigio", "Riesling", "Cabernet Sauvignon", "Chardonnay"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Ce este o agavă?",
+      "answers": ["un mecanism", "o pungă", "o plantă", "un afluent"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "How do you write in Roman numerals: 1910?",
+      "answers": ["MDX", "MDC", "MCML", "MCMX"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "In which European capital is the Brandenburg Gate?",
+      "answers": ["Madrid", "București", "Paris", "Berlin"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Care dintre următoarele cuvinte este echivalent cu \"calabalâc\"?",
+      "answers": ["colocviu", "carantină", "contrabandă", "catrafuse"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "The god Cupid, from Roman mythology, is associated in Greek mythology with:",
+      "answers": ["Mars", "Zeus", "Eros", "Hades"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "In what year was Mihai Eminescu born?",
+      "answers": ["1900", "1850", "1889", "1834"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "What does the acronym ROGVAIV stand for?",
+      "answers": ["o organizație de binefacere", "un nume de oraș", "o celulă masonică", "culorile curcubeului"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "The Windows operating system is created by the company:",
+      "answers": ["Apple", "Ericsson", "Samsung", "Microsoft"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "What is the name of the process by which heavier tectonic plates slowly slide under lighter continental plates?",
+      "answers": ["Submission", "Subduction", "Subjugation", "Understeering"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Cum ai descrie culoarea sidefie?",
+      "answers": ["albă, cu irizații", "verde cu reflexe roz", "mov intens", "albastru de Prusia"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Ce adjectiv se foloseşte pentru a caracteriza un fruct moale şi făinos?",
+      "answers": ["mărăcinos", "măiestru", "mărginit", "mălăieț"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "What is the science that studies natural phenomena called?",
+      "answers": ["Mathematics", "Biology", "Physics", "Astronomy"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Which variant represents a chemical element:",
+      "answers": ["Location", "Lutetium", "Localization", "Libration"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "În ce ţară se află vulcanul Popocatepetl?",
+      "answers": ["S.U.A.", "Italia", "Argentina", "Mexic"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Care dintre următoarele jocuri se dispută pe o suprafaţă împărţită în 64 de pătrate?",
+      "answers": ["fotbal american", "polo", "go", "șah"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Ce nume poartă ochelarii cu mâner, foarte răspândiţi în Europa în secolele XVIII-XIX?",
+      "answers": ["lornion", "lizieră", "lotus", "lucarnă"],
+      "correctAnswer": "1"
+    }
+  ],
+  [
+    {
+      "question": "Muammar Gaddafi a fost conducătorul cărei ţări între 1969 şi 2011?",
+      "answers": ["Libia", "Tunisia", "Sudan", "Egipt"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Autorul romanului \"Maitreyi\" (1993) este scriitorul:",
+      "answers": ["Mircea Eliade", "Constantin Noica", "Petre Țuțea", "Emil Cioran"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "\"Rapsodia albastră\" este o lucrare simfonică aparţinând lui:",
+      "answers":  ["Frédéric Chopin", "Tiberiu Olah", "George Gershwin", "Mike Oldfield"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Cine este autorul \"Istoriei literaturii române de la origini până în prezent?\"",
+      "answers": ["George Călinescu", "Liviu Rebreanu", "Nicolaie Iorga", "Petru Maior"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Ce stat din Orientul Mijlociu are capitala la Abu Dhabi?",
+      "answers": ["Kuwait", "Emiratele Arabe Unite", "Irak", "Yemen"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "În craterul vulcanic al Muntelui Ciomatu se află lacul:",
+      "answers": ["Sf. Vineri", "Sf. Ana", "Vidraru", "Bolboci"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Care este limba de provenienţă a cuvântului \"şniţel\"?",
+      "answers": ["bulgară", "turcă", "franceză", "germană"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Unde s-au tinut jocurile Olimpice in anul 2012?",
+      "answers": ["Beijing", "Londra", "Atena", "Sydney"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Alchimiştii cărei ţări au produs, în urmă cu aproximativ 2000 de ani, praful de puşcă?",
+      "answers": ["China", "Anglia", "S.U.A.", "Australia"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Prima culegere de legi a fost elaborată de:",
+      "answers": ["Alexantru cel Mare", "Dracon", "Hammurabi", "Iulius Cesar"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Cum se mai numesc mieii şi iezii înţărcaţi?",
+      "answers": ["cârmaci", "cârlani", "clăpugi", "cârgotași"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Cum se numeşte unealta de pieptănat şi scărmănat lâna?",
+      "answers": ["putinei", "coasă", "joagăr", "darac"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Care dintre următoarele monumente a fost realizat de sculptorul Vida Gheza?",
+      "answers": ["de la Moisei", "Masa Tăcerii", "de la Adamclisi", "Crucea secolului"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Menestrelul denumește:",
+      "answers": ["un fel de basma", "un instrument pentru mămăligă", "un cântăreț medieval", "o pasăre"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Ce gaz predomină în atmosfera Terrei?",
+      "answers": ["oxigen", "dioxid de carbon", "azot", "argon"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Ce gara reprezintă Claude Monet intr-o pictura din 1877?",
+      "answers": ["Keleti", "Saint-Lazare", "Basarab", "Obor"],
+      "correctAnswer": "2"
+    }
+  ],
+  [
+    {
+      "question": "Cu ce parte a unui computer este asociat brand-ul „Intel Inside”?",
+      "answers": ["BIOS", "RAM", "USB", "Procesorul"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Ce cuvânt lispește din titlul unui film cu Bruce Willis: \"Al șaselea...\"?",
+      "answers": ["element", "războinic", "simț", "sportiv"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Cine a compus opera Norma?",
+      "answers": ["Verdi", "Puccini", "Bellini", "Mozart"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Ce om politic rus, preşedinte al Rusiei, s-a opus puciului împotriva lui Mihail Gorbaciov, din anul 1991?",
+      "answers": ["Boris Elțîn", "Vladimir Putin", "Eduard Șevernadze", "Nikita Hrușciov"],
+      "correctAnswer": "1"
+    },
+    {
+      "question":  "În ce oraș din România se află un muzeu al ceasurilor?",
+      "answers": ["București", "Târgoviște", "Ploiești", "Iași"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Care dintre următoarele variante este implicată atunci când este folosit un edec?",
+      "answers": ["un bec", "o navă", "un pește", "o semănătoare"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Ce este un baptisteriu?",
+      "answers": ["un edificiu pentru botezuri", "un șef la baptiști", "un bisturiu", "o unitate militară"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Cum se numește acumularea de material steril rezultat în urma activităților de exploatare minieră?",
+      "answers": ["haldă", "haltă", "halcă", "halbă"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Ce origine avea soprana americană Maria Callas?",
+      "answers": ["italiană", "portugheză", "greacă", "franceză"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Cum s-a numit până în 1664 orașul New York?",
+      "answers": ["Noul Ierusalim", "Noul Amsterdam", "Noua Scoție", "Noua Europă"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Care este capitala Tibetului?",
+      "answers": ["Potala", "Calcutta", "Lhasa", "Rangoon"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Care din dansurile următoare nu face parte din categoria dansurilor sportive?",
+      "answers": ["Vals vienez", "Jive", "Salsa", "Cha Cha Cha"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Despre care dintre următoarele animale se poate folosi adjectivul \"sireap\"?",
+      "answers": ["cal", "curcan", "cocoș", "crevete"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Ce oraş din Republica Moldova se mai numeşte \"Capitala sudului\"?",
+      "answers": ["Cantemir", "Chișinău", "Tiraspol", "Cahul"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Ce denumire are firul de aţă albă sau colorată, răsucit, din bumbac sau mătase, înfăşurat pe un sul subţire de carton?",
+      "answers": ["goblen", "ilic", "iurtă", "ibrișin"],
+      "correctAnswer": "4"
+    }
+  ],
+  [
+    {
+      "question": "Care dintre următoarele oraşe este capitala Arabiei Saudite?",
+      "answers": ["Abu Dhabi", "Manama", "Doha", "Riyadh"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Pe ce lungime udă Dunărea teritoriul României?",
+      "answers": ["634 km", "1900km", "1459 km", "1075 km"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Câte scaune are opera lui Brâncuşi intitulată Masa Tăcerii?",
+      "answers": ["6", "10", "8", "12"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Unde a avut loc Conciliul convocat de Papa Paul al III-lea, o etapă doctrinară esențială a Reformei catolice?",
+      "answers": ["Toronto", "Verona","Trento", "Londra"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Cine este autorul romanului \"Un om între oameni\"?",
+      "answers":  ["Cezar Petrescu", "Marin Sorescu", "Marin Preda", "Camil Petrescu"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "În spațiul cultural românesc prima tipăritură a apărut în secolul:",
+      "answers": ["XIV", "XV", "XVI", "XVII"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Care este câştigătoarea Cupei Mondiale la fotbal în 1998?",
+      "answers": ["Italia", "Franța", "Brazilia", "Germania"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Cine sunt cei care au condamnat arta pesimistă a lui Ernst Barlach și i-au distrus lucrările?",
+      "answers": ["comuniștii", "naziștii", "reprezentanții bisericii", "barbarii"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Numele propriu atribuit lui Dumnezeu în Biblia iudaică este:",
+      "answers": ["Iehuda", "Iahwe", "Isaac", "Iacov"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Care este cel mai înalt pas din România?",
+      "answers": ["Predeal", "Oituz", "Tihuța", "Urdele"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Care este simbolul naţional al Canadei?",
+      "answers": ["frunza de mesteacăn", "frunza de arțar", "frunza de stejar", "frunza de vișin"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "În ce ţară a avut loc în anul 1994 revolta \"zapatistă\" a ţăranilor indieni din Chiapas?",
+      "answers": ["Spania", "India", "Mexic", "S.U.A."],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Cine considera geometria ca fiind \"regina ştiinţelor\"?",
+      "answers": ["grecii", "egiptenii", "chinezii", "romanii"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "La ce meserie te gândeşti când auzi numele Ben Kingsley?",
+      "answers": ["istoric", "jucător de hochei", "pilot de curse", "actor"],
+      "correctAnswer": "4"
+    }
+  ],
+
+  [
+    {
+      "question": "Sub ce nume a rămas cunoscut eroul naţional al Spaniei, Rodrigo Diaz de Bivar?",
+      "answers": ["El Cano", "El Greco", "El Cid", "El Salvador"],
+      "correctAnswer": "3"
+    },
+    {
+      "question":  "Din ce etaj al formațiunilor vegetale fac parte padurile de pin?",
+      "answers": ["vegetația montană", "vegetația de deal și podis", "vegetația de câmpie", "vegetația luncilor"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Ce strâmtoare face legătura între Marea Neagră și Marea Azov?",
+      "answers": ["Dover", "Bosfor", "Kerci", "Dardanele"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Care dintre următoarele ornamente imită o specie de plantă?",
+      "answers": ["rozetă", "rocalille", "ovă", "acantă"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Care era prenumele Doamnei Bovary din romanul omonim al lui Flaubert?",
+      "answers": ["Inna", "Anna", "Emma", "Ella"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Care este cel mai mic stat independent?",
+      "answers": ["Norvegia", "Kiribati", "Voivodina", "Vatican"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Cât timp a ținut războiul de 100 de ani?",
+      "answers": ["116 ani", "100 de ani", "30 de ani", "86 de ani"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "\"Death Train\" este un film de acţiune american, lansat pe marile ecrane în 1993. Rolul principal i-a fost consacrat lui:",
+      "answers": ["Pierce Brosnan", "Jean-Claude van Damme", "Steven Seagal", "Chuck Norris"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "\"Somnambula\"este opera compusa de...?",
+      "answers": ["Gaetano Donizetti", "Georges Bizet", "Gioachino Rossini", "Vincenzo Bellini"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Romanul \"Despre eroi și morminte\" îi aparține lui:",
+      "answers": ["Ernesto Sabato", "Erich Maria Remarque", "Ernest Hemingway", "William Manchester"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Cu ce frunze se hrăneşte preponderent ursuleţul Koala?",
+      "answers": ["de palmier", "de bambus", "de conifere", "de eucalipt"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Cine a fost descoperitorul Troiei?",
+      "answers": ["Heinrich Schliemann", "Michael Ventris", "Arthur Evans", "Herodot"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Societatea de Radiodifuziune din România a început să emită în anul:",
+      "answers": ["1920", "1928", "1936", "1945"],
+      "correctAnswer": "2"
+    }
+  ],
+
+  [
+    {
+      "question": "În ce judeţ se află localitatea Roşia Montană?",
+      "answers": ["Prahova", "Alba", "Buzău", "Maramureș"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Cine a fost primul artist ce a avut o expoziţie în Louvre la Paris încă din timpul vieţii?",
+      "answers": ["Georges de La Tour", "Georges Brassens", "Georges Braque", "Seurat Georges"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Ce reprezintă \"undele Martenot\"?",
+      "answers": ["radar pe unele submarine atomice", "aparat pentru detecția metalelor", "instrument muzical", "mijloc de comunicare telepatică"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Care președinte american a avut patru mandate consecutive?",
+      "answers": ["George Washington", "Franklin Delano Roosevelt", "Theodor Roosevelt", "John Adams"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "„Iron Tigran” a fost un supranume dat unui mare maestru al jocului de şah numit :",
+      "answers": ["Smîslov", "Botvinnik", "Petrosian", "Kasparov"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Care este cea mai adâncă peșteră din Europa (1733 m)?",
+      "answers": ["Krubera", "Gouffre Mirolda", "Gouffre Berger", "Peștera mamuților"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Cărei ţări îi aparţine Insula Sumatra?",
+      "answers": ["India", "Thailanda", "Brazilia", "Indonezia"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Cine este autorul cărții ,,Schimbarea la față a României\"?",
+      "answers": ["Petea Țuțea", "Mircea Eliade", "Emil Cioran", "Nae Ionescu"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Cine a fost regizorul filmului „Felix și Otilia”, după romanul „Enigma Otiliei” de G. Călinescu?",
+      "answers": ["Mircea Veroiu", "Alexandru Tatos", "Iulian Mihu", "Sergiu Nicolaiescu"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Achiziția Louisianei de către SUA de la Franța în anul 1803 a costat:",
+      "answers": ["15 milioane de dolari", "50 milioane de dolari", "15 miliarde de dolari", "50 miliarde de dolari"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Care era prenumele filosofului Carnap?",
+      "answers": ["John", "Otto", "Karl", "Rudolf"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Cine a potolit rascoala Nika?",
+      "answers": ["Ștefan cel Mare", "Iustinian I", "Carol cel Mare", "Filip al II-lea"],
+      "correctAnswer": "2"
+    }
+  ],
+  [
+    {
+      "question": "Care dintre următoarele variante denumeşte un bici alcătuit din mai multe curele împletite?",
+      "answers": ["gârbaci", "gârliță", "gâză", "gârniță"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Prin ce era simbolizată Casa de Lancaster?",
+      "answers": ["trandafir roșu", "trandafir alb", "violete de Parma", "scut și coroană albastre"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Sfiţa este:",
+      "answers": ["o pasăre migratoare", "un tip de rocă", "un veșmânt preoțesc", "o comună din Banat"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Care dintre următoarele state e traversat de Meridianul 0?",
+      "answers": ["Algeria", "Senegal", "Ciad", "Mauritania"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "În țara noastră, cea mai mare cantitate medie anuală de precipitații s-a înregistrat la stația meteo:",
+      "answers": ["Omu", "Bod", "Strîna de Vale", "Baia Mare"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "În ce gen se încadrează lucrarea muzicală compusă de Leonard Bernstein, \"West Side Story\"?",
+      "answers": ["operă", "balet", "sonată", "musical"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "In care stat a fost naturalizat scriitorul german Erich Maria Remarque?",
+      "answers": ["Statele Unite", "Anglia", "Franța", "Suedia"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Ce este Claudio Abbado?",
+      "answers": ["pictor", "dirijor", "sportiv", "balerin"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Cum se numește animalul a cărui denumire științifică este \"Putorius putorius\"?",
+      "answers": ["sconcsul", "dihorul", "viezurele", "nevăstuica"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Ce gen de literatură a practicat sculptorul italian Michelangelo Buonarroti?",
+      "answers": ["proză", "teatru", "poezie", "eseu"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Ce religie străveche este bazată pe conceptul unei lupte eterne între zeul creației și spiritul răului?",
+      "answers": ["mozaism", "zoroastrism", "islamism", "daoism"],
+      "correctAnswer": "2"
+    }
+  ],
+  [
+    {
+      "question": "Cum se numeşte pretinsa ştiinţă de a ghici viitorul după conformaţia norilor?",
+      "answers": ["giromanție", "acromanție", "metereomanție", "nefelomanție"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Curcubeul poate fi realizat experimental folosind:",
+      "answers": ["televizorul", "un disc rotativ", "o prismă de sticlă", "un nor de azot"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Lacul Titicaca se află în:",
+      "answers": ["Brazilia", "Bolivia", "Peru", "Chile"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Care dintre următoarele variante era numele de domnișoară al reputatei chimiste Marie Curie?",
+      "answers": ["Butlerov", "Schmidt", "Sklodowska", "Dupont"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Ce personalitate a declarat despre Istanbul: \"Dacă Pământul ar fi fost un singur stat, Istanbul ar fi fost capitala lui\"?",
+      "answers": ["Ludwig van Beethoven", "Napoleon Bonaparte", "Otto von Bismarck", "Nicolae Bălcescu"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Cati jucatori formau o echipa de handbal la începuturile acestui sport?",
+      "answers": ["nouă", "șapte", "unsprezece", "cinci"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "În urma cărei bătălii a dispărut Regatul ungar?",
+      "answers": ["Mohaci (1526)", "Buda (1541)", "Belgrad (1521)", "Karlowitz (1699)"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Câţi ani a trăit revoluţionarul şi istoricul Nicolae Bălcescu?",
+      "answers": ["33", "25", "39", "45"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Fatima este:",
+      "answers": ["sora și soția lui Mahomed", "centru religios spaniol", "centru religioz portughez", "poezie de Pușkin"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Alantoina poate fi găsită în:",
+      "answers": ["compușii alaunului", "borați", "urina mamiferelor", "structură osoasă"],
+      "correctAnswer": "3"
+    }
+  ],
+  [
+    {
+      "question": "Înainte de trecerea calendarul gregorian, la ce dată începea noul an al coloniilor americane?",
+      "answers": ["25 martie", "1 iulie", "25 septembrie", "1 decembrie"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Cui îi aparțin cuvintele: \"am impresia că în muzeul Luvru se află totul și că, prin intermediul său, totul poate fi înțeles și îndrăgit\"?",
+      "answers": ["Paul Cézanne", "Henri Mattise", "Van Gogh", "Pablo Picasso"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "In ce domeniu artistic s-au remarcat: Karl Richter, Rudolf Kempe, Otto Klemperer, Clemens Kraus?",
+      "answers": ["regie de teatru", "regie de film", "dirijorat", "coregrafie"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Ce țară se mai numește și \"Africa în miniatură\"?",
+      "answers": ["Congo", "Kenya", "Camerun", "Africa de Sud"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "În ce fel moare Gilda in opera \"Rigoletto\"?",
+      "answers": ["Inecata", "Otravita din eroare", "Înjunghiată de propriul iubit", "Se expune benevol asasinatului"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Cu ce se ocupă vexilologia?",
+      "answers": ["studiul armelor medievale", "studiul steagurilor", "studiul vechilor codexuri", "studiul armelor"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Dacă Soarele s-ar stinge acum, în cât timp am rămâne în întuneric?",
+      "answers": ["30 minute", "15 minute", "8 minute", "5 minute"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Cine a pictat pânza \"Stejari în pădurea din Fontainbleau\"?",
+      "answers": ["Wassily Kandinski", "Narcisso Diaz", "Charles Francois", "Theodore Rousseau"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "În ce domeniu au fost folosite iniţial cartelele perforate:",
+      "answers": ["pontaj", "țesătorie", "calculatoare mecanice", "identificarea cetățenilor"],
+      "correctAnswer": "2"
+    }
+  ],
+  [
+    {
+      "question": "Care dintre următorii nu are un element chimic în cinstea sa?",
+      "answers": ["Albert Einstein", "Niels Bohr", "Isaac Newton", "Enrico Fermi"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Cel care a adus prima dovadă teoretică asupra expansiunii universului a fost:",
+      "answers": ["Anro Penzias", "Stephen Hawking", "Max Planck", "Edwin Hubble"],
+      "correctAnswer": "1"
+    },
+    {
+      "question":  "Opera \"Oedip\" de George Enescu a fost scrisă pe un libret de:",
+      "answers": ["Euripide", "Sofocle", "Andre Breton", "Edmond Fleg"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "\"F91 Dudelange\" este un club de fotbal ce activează în :",
+      "answers": ["Luxemburg", "Liechtenstein", "Malta", "Feroe"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Care zeiță este reprezentată în Statuia Libertății din Ploiești?",
+      "answers": ["Fortuna", "Venus", "Minevra", "Demeter"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "În ce an s-a născut celebrul pictor francez Paul Cézanne?",
+      "answers": ["1839", "1832", "1849", "1959"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Cum se numea legendara sabie a lui Roland?",
+      "answers": ["Haute-Claire", "Curtana", "Durandal", "Balmung"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Sărbătoarea religioasă cunoscută sub numele de Misterele Eleusine era închinată zeiţei:",
+      "answers": ["Afrodita", "Atena", "Demeter", "Hera"],
+      "correctAnswer": "3"
+    }
+  ],
+  [
+    {
+      "question": "Care dintre următoarele țări fără ieșire la mare se află în întregime în altă țară?",
+      "answers": ["Lesotho", "Burkino Faso", "Mongolia", "Luxemburg"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Din ce an este sărbătorită oficial în S.U.A. ”Mother's Day”?",
+      "answers": ["1900", "1886", "1928", "1914"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Cine a fost liderul răsculaților în celebra „Revoltă de pe Bounty” din 1789?",
+      "answers": ["Wiliam Bligh", "Fletcher Christian", "Alexander Smith", "Matthew Quintal"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Ce explorator european a ajuns pentru prima dată în America?",
+      "answers": ["Cristofor Columb", "Barry Bell", "Leif Erikson", "Fernardo Magellan"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Care este substratul patogenic al astmului bronsic?",
+      "answers": ["mecanismul autoimun", "alergia", "inflamația", "dezechilibru gormonal"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "În ce perioadă a condus imperiul mogul Shah Jahan (\"regele lumii\")?",
+      "answers": ["1952 - 1622", "1536 - 1574", "1628 - 1658", "1668 - 1696"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Care celebritate a plătit în decembrie 1963 o recompensă de 240.000$ pentru a-și recupera fiul răpit?",
+      "answers": ["Kirk Douglas", "Burt Lancaster", "Frank Sinastra", "Hank Williams"],
+      "correctAnswer": "3"
+    }
+  ],
+  [
+    {
+      "question": "Potrivit Biroului de Referință a Populației, care este numărul aproximativ de oameni care au trăit vreodată pe Pământ?",
+      "answers": ["50 de miliarde", "100 de miliarde", "1 trilion", "5 trilioane"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Cine l-a însoțit pe Jacques Balmat pe 8 Aug.1786 în prima escaladare a Mont Blancului?",
+      "answers": ["Horace-Bénédict de Saussure", "Gaston Rébuffat", "Michel-Gabriel Paccard", "Marc Theodore Bourrit."],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Ce navă a fost capturată pentru 11 luni de nord coreeni în 1968, pentru violarea limitelor graniței marine?",
+      "answers": ["USS Navaho", "USS Pueblo", "USS Shark", "USS Thresher"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Ce inaltime avea Presedintele american George Washington (in cm)?",
+      "answers": ["164", "190", "168", "172"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Ce artist impresionist, deși membru al Partidului Nazist , a avut cele mai multe lucrări expuse în infama Expoziție a „Artei Degenerate”?",
+      "answers": ["Gustav Klimt", "Max Beckman", "Emil Nolde", "Oscar Kokoschka"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Care localitate a fost declarată ca oraş al Crăciunului în Finlanda în 1996 ?",
+      "answers": ["Tampere", "Turku", "Solna", "Stavanger"],
+      "correctAnswer": "1"
+    }
+  ],
+  [
+    {
+      "question": "Nefelecoccigia este practica de a face ce?",
+      "answers": ["găsirea formelor în nori", "stărnutul cu ochii deschiși", "a sparge sticla cu niște țipete", "înotul în apa înghețată"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Care dintre următoarele limbi NU este vorbită în Africa de Sud?",
+      "answers": ["swazi", "swahili", "sotho", "venda"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Care pictor american este faimos pentru că își expunea deseori lucrările în diverse baruri din Kansas City, fără a frecventa personal asemenea localuri?",
+      "answers": ["John Steuart Curry", "Grant Wood", "Thomas Hart Bent", "Henry V. Poor"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Primul film artistic in care a aparut marele actor George Vraca a fost...?",
+      "answers": ["Tudor", "Visul unei nopți de vară", "Lia", "Datorie și sacrificiu"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Din razele de lumina ce cad pe suprafata apei, o parte se reflecta in atmosfera, iar alta patrunde in apa raspandindu-se in toate directiile și transformandu-se in...?",
+      "answers": ["Evaporare", "Radiație difuză", "Curenți de derivă", "Mișcare de convecție"],
+      "correctAnswer": "2"
+    }
+  ]
+]
