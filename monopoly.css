@@ -5,7 +5,7 @@ body {
 }
 
 td {
-	font-size: 12px;
+	font-size: 14px;
 	font-family: arial, sans-serif;
 	border: 1px solid black;
 	text-align: center;
@@ -92,7 +92,7 @@ td {
 }
 
 #quickstats {
-	font-size: 12px;
+	font-size: 14px;
 	font-weight: bold;
 	font-family: arial, sans-serif;
 	border: 2px solid blue;
@@ -122,7 +122,7 @@ td {
 	padding-left: 1px;
 	border: 1px solid gray;
 	font-family: Consolas, "Courier New", monospace;
-	font-size: 13px;
+	font-size: 14px;
 	background-color: #FFFFFF;
 	overflow-y: scroll;
 }
@@ -194,22 +194,22 @@ td {
 }
 
 #trade-leftp-name {
-	font-size: 13px;
+	font-size: 14px;
 	font-weight: bold;
 }
 
 #trade-leftp-name option {
-	font-size: 13px;
+	font-size: 14px;
 	font-weight: normal;
 }
 
 #trade-rightp-name {
-	font-size: 13px;
+	font-size: 14px;
 	font-weight: bold;
 }
 
 #trade-rightp-name option {
-	font-size: 13px;
+	font-size: 14px;
 	font-weight: normal;
 }
 
@@ -461,9 +461,8 @@ td {
 }
 
 #deed-name {
-	font-size: 15px;
+	font-size: 14px;
 	font-weight: bold;
-
 }
 
 #deed-table {
@@ -503,7 +502,7 @@ td {
 
 #deed-special-text {
 	margin: 20px;
-	font-size: 15px;
+	font-size: 14px;
 }
 
 #deed-special-footer {
@@ -522,7 +521,6 @@ td {
 .menu-item:hover {
 	/* background-image: -webkit-linear-gradient(bottom,#000080,#4787ED);
 	background-image: -moz-linear-gradient(bottom,#000080,#4787ED); */
-
 	background-image: url(menu_background_hover.png);
 }
 
@@ -548,8 +546,6 @@ td {
 }
 
 .die-no-img {
-
-
 	border-radius: 6px;
 	font-weight: bold;
 	border: 2px solid black;
@@ -619,7 +615,7 @@ td {
 	background-color: white;
 	border: 2px solid black;
 	text-align: center;
-	font-size: 12px;
+	font-size: 14px;
 	font-family: arial, sans-serif;
 	position: fixed;
 	z-index: 15;
@@ -774,52 +770,32 @@ td {
 
 .board-top .cell-owner {
 	background-image: url("hori-bar.png");
-
 	height: 15px;
 	left: 0px;
-
-
-
 	top: -25px;
 	width: 72px;
-
 }
 
 .board-bottom .cell-owner {
 	background-image: url("hori-bar.png");
 	bottom: -25px;
-
 	height: 15px;
-
-
-
-
 	left: 0px;
 	width: 72px;
 }
 
 .board-left .cell-owner {
 	background-image: url("vert-bar.png");
-
 	height: 68px;
 	left: -25px;
-
-
-
 	top: 0px;
 	width: 15px;
-
 }
 
 .board-right .cell-owner {
 	background-image: url("vert-bar.png");
-
 	height: 68px;
 	right: -25px;
-
-
-
 	top: 0px;
 	width: 15px;
-
 }
