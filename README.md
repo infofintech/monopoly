@@ -1,2 +1,2 @@
-# Who Wants To Be A Millionaire
-An online HTML5 Who Wants To Be A Millionaire game.
+# Monopoly
+A JavaScript/HTML/CSS Monopoly implementation with full game play. Supports two-eight players.
