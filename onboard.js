@@ -35,7 +35,7 @@ function Card(text, action) {
 }
 
 function corrections() {
-	document.getElementById("cell1name").textContent = "Thessaloniki";
+	document.getElementById("cell1name").textContent = "Strandvejen (Denmark)";
 
 	// Add images to enlarges.
 	document.getElementById("enlarge5token").innerHTML += '<img src="train_icon.png" height="60" width="65" alt="" style="position: relative; bottom: 20px;" />';
